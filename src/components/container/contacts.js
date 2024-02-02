@@ -124,6 +124,7 @@ const Contacts = () => {
             (result) => {
               console.log("success");
               setSuccess(true);
+              setTimeout(() => { setSuccess(false); }, 3000);
               setErrMsg("");
               setName("");
               setEmail("");

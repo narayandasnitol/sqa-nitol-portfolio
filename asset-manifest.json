@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sqa-nitol-portfolio/static/css/main.5d8279cf.css",
-    "main.js": "/sqa-nitol-portfolio/static/js/main.7fa52e1f.js",
+    "main.js": "/sqa-nitol-portfolio/static/js/main.7a4cf035.js",
     "static/js/592.0372bc64.chunk.js": "/sqa-nitol-portfolio/static/js/592.0372bc64.chunk.js",
     "static/media/android.svg": "/sqa-nitol-portfolio/static/media/android.1d55a31659527fe02b775ff0898fdcc7.svg",
     "static/media/duck.svg": "/sqa-nitol-portfolio/static/media/duck.81b395f8005d243006722c7ca543e74f.svg",
@@ -42,11 +42,11 @@
     "static/media/figma.svg": "/sqa-nitol-portfolio/static/media/figma.cc8e111619371cf586cc11dbd3173da0.svg",
     "static/media/materialui.svg": "/sqa-nitol-portfolio/static/media/materialui.d7f5c38f45cba4d9717da569bf6996ee.svg",
     "main.5d8279cf.css.map": "/sqa-nitol-portfolio/static/css/main.5d8279cf.css.map",
-    "main.7fa52e1f.js.map": "/sqa-nitol-portfolio/static/js/main.7fa52e1f.js.map",
+    "main.7a4cf035.js.map": "/sqa-nitol-portfolio/static/js/main.7a4cf035.js.map",
     "592.0372bc64.chunk.js.map": "/sqa-nitol-portfolio/static/js/592.0372bc64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d8279cf.css",
-    "static/js/main.7fa52e1f.js"
+    "static/js/main.7a4cf035.js"
   ]
 }

@@ -1,6 +1,5 @@
 # SQA Portfolio
 
-
 ## Table of Contents :scroll:
 
 - [Sections](#sections-bookmark)

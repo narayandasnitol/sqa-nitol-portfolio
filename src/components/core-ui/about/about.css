@@ -1,7 +1,7 @@
 .about {
   min-height: fit-content;
   position: relative;
-  text-align: justify;
+  margin-bottom: 100px;
 }
 
 .about .line-styling {

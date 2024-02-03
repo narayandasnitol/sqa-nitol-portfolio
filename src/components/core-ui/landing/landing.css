@@ -3,11 +3,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: justify;
-  
   
 }
-
 
 .landing--container {
   display: flex;
@@ -15,7 +12,7 @@
   justify-content: center;
   height: 100%;
   position: relative;
-  
+  width: 100%;
 }
 
 .landing--img {
@@ -48,7 +45,7 @@
 
 .lcl--content {
   margin: 3rem;
-  width: 100%;
+  width: 800%;
   display: flex;
   align-items: center;
   justify-content: flex-start;
@@ -76,7 +73,7 @@
 
 .lcr--content {
   width: 45%;
-  margin-right: 7rem;
+  margin-right: 12rem;
   font-family: var(--primaryFont);
   font-style: normal;
 }
@@ -100,6 +97,7 @@
   font-weight: 500;
   font-size: 1.15rem;
   opacity: 0.7;
+  width: 400%;
 }
 
 .lcr-buttonContainer {
